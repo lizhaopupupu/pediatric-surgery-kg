@@ -957,7 +957,7 @@
    }
   },
   {
-   "id": "G002",
+   "id": "G020",
    "type": "指南来源",
    "name": "AUA Cryptorchidism Guideline (2014/2025修订)",
    "code": "",
@@ -967,7 +967,7 @@
    }
   },
   {
-   "id": "G003",
+   "id": "G021",
    "type": "指南来源",
    "name": "EAU 小儿泌尿外科指南(2016+)",
    "code": "",
@@ -977,7 +977,7 @@
    }
   },
   {
-   "id": "G004",
+   "id": "G022",
    "type": "指南来源",
    "name": "WSES 耶路撒冷指南:急性阑尾炎(2020更新)",
    "code": "",
@@ -987,7 +987,7 @@
    }
   },
   {
-   "id": "G005",
+   "id": "G023",
    "type": "指南来源",
    "name": "WSES 博洛尼亚指南:ASBO(2017)",
    "code": "",
@@ -997,7 +997,7 @@
    }
   },
   {
-   "id": "G006",
+   "id": "G002",
    "type": "指南来源",
    "name": "小儿肠套叠诊疗规范(教科书/国内共识)",
    "code": "",
@@ -1007,7 +1007,7 @@
    }
   },
   {
-   "id": "G007",
+   "id": "G003",
    "type": "指南来源",
    "name": "儿童腹股沟斜疝诊疗共识",
    "code": "",
@@ -1017,7 +1017,7 @@
    }
   },
   {
-   "id": "G008",
+   "id": "G004",
    "type": "指南来源",
    "name": "儿童鞘膜积液诊疗共识",
    "code": "",
@@ -1027,7 +1027,7 @@
    }
   },
   {
-   "id": "G009",
+   "id": "G005",
    "name": "儿童急性肠系膜淋巴结炎诊疗专家共识(国内)",
    "type": "指南来源",
    "code": "",
@@ -1036,7 +1036,7 @@
    }
   },
   {
-   "id": "G010",
+   "id": "G006",
    "name": "梅克尔憩室诊治专家共识(小儿外科)",
    "type": "指南来源",
    "code": "",
@@ -1045,7 +1045,7 @@
    }
   },
   {
-   "id": "G011",
+   "id": "G007",
    "name": "儿童急性感染性腹泻病诊疗规范(2020)",
    "type": "指南来源",
    "code": "",
@@ -1054,7 +1054,7 @@
    }
   },
   {
-   "id": "G012",
+   "id": "G024",
    "name": "ACOG 青少年附件扭转意见(No.783, 2019)",
    "type": "指南来源",
    "code": "",
@@ -1063,7 +1063,7 @@
    }
   },
   {
-   "id": "G013",
+   "id": "G025",
    "name": "儿童功能性便秘罗马IV/NASPGHAN-ESPGHAN(2014)",
    "type": "指南来源",
    "code": "",
@@ -1072,7 +1072,7 @@
    }
   },
   {
-   "id": "G014",
+   "id": "G008",
    "name": "儿童肠旋转不良诊治专家共识(中华小儿外科)",
    "type": "指南来源",
    "code": "",
@@ -1983,7 +1983,7 @@
    "props": {}
   },
   {
-   "id": "G015",
+   "id": "G009",
    "type": "指南来源",
    "name": "小儿肥厚性幽门狭窄诊疗专家共识(中华小儿外科)",
    "code": "",
@@ -1993,7 +1993,7 @@
    }
   },
   {
-   "id": "G016",
+   "id": "G010",
    "type": "指南来源",
    "name": "先天性巨结肠诊断与治疗专家共识(中华小儿外科)",
    "code": "",
@@ -2003,7 +2003,7 @@
    }
   },
   {
-   "id": "G017",
+   "id": "G011",
    "type": "指南来源",
    "name": "胆道闭锁诊断与治疗专家共识(中华小儿外科)",
    "code": "",
@@ -2013,7 +2013,7 @@
    }
   },
   {
-   "id": "G018",
+   "id": "G012",
    "type": "指南来源",
    "name": "新生儿坏死性小肠结肠炎临床诊疗指南(2020)",
    "code": "",
@@ -2023,7 +2023,7 @@
    }
   },
   {
-   "id": "G019",
+   "id": "G013",
    "type": "指南来源",
    "name": "中国儿童消化道异物管理专家共识(2021)",
    "code": "",
@@ -2033,7 +2033,7 @@
    }
   },
   {
-   "id": "G020",
+   "id": "G014",
    "type": "指南来源",
    "name": "儿童结直肠息肉诊疗共识(教科书/国内共识)",
    "code": "",
@@ -2451,7 +2451,7 @@
    }
   },
   {
-   "id": "G021",
+   "id": "G026",
    "type": "指南来源",
    "name": "ACR 适宜性标准:儿童右下腹痛-疑似阑尾炎(2018)",
    "code": "",
@@ -2461,7 +2461,7 @@
    }
   },
   {
-   "id": "G022",
+   "id": "G027",
    "type": "指南来源",
    "name": "ACR 适宜性标准:儿童肠套叠(2017)",
    "code": "",
@@ -2471,7 +2471,7 @@
    }
   },
   {
-   "id": "G023",
+   "id": "G028",
    "type": "指南来源",
    "name": "ACR 适宜性标准:急性阴囊疼痛",
    "code": "",
@@ -2481,7 +2481,7 @@
    }
   },
   {
-   "id": "G024",
+   "id": "G029",
    "type": "指南来源",
    "name": "ACR 适宜性标准:3月龄内婴儿呕吐",
    "code": "",
@@ -2491,7 +2491,7 @@
    }
   },
   {
-   "id": "G025",
+   "id": "G030",
    "type": "指南来源",
    "name": "ESGE/ESPGHAN 儿童消化道异物内镜指南(2017)",
    "code": "",
@@ -2501,7 +2501,7 @@
    }
   },
   {
-   "id": "G026",
+   "id": "G031",
    "type": "指南来源",
    "name": "ESPGHAN/ESPID 欧洲儿童急性胃肠炎指南(2014)",
    "code": "",
@@ -2511,7 +2511,7 @@
    }
   },
   {
-   "id": "G027",
+   "id": "G032",
    "type": "指南来源",
    "name": "NICE 儿童青少年便秘指南(CG99, 2010/2017)",
    "code": "",
@@ -2521,7 +2521,7 @@
    }
   },
   {
-   "id": "G028",
+   "id": "G033",
    "type": "指南来源",
    "name": "HerniaSurge 国际腹股沟疝管理指南(2018)",
    "code": "",
@@ -2531,7 +2531,7 @@
    }
   },
   {
-   "id": "G029",
+   "id": "G034",
    "type": "指南来源",
    "name": "NASPGHAN/ESPGHAN 婴儿胆汁淤积性黄疸评估指南(2017)",
    "code": "",
@@ -2541,7 +2541,7 @@
    }
   },
   {
-   "id": "G030",
+   "id": "G035",
    "type": "指南来源",
    "name": "CUA 隐睾诊断与管理指南(2017)",
    "code": "",
@@ -2551,7 +2551,7 @@
    }
   },
   {
-   "id": "G031",
+   "id": "G015",
    "type": "指南来源",
    "name": "小儿脐疝诊疗共识(国内)",
    "code": "",
@@ -2561,7 +2561,7 @@
    }
   },
   {
-   "id": "G032",
+   "id": "G016",
    "type": "指南来源",
    "name": "中国泌尿外科和男科疾病诊疗指南:包茎(2019)",
    "code": "",
@@ -2571,7 +2571,7 @@
    }
   },
   {
-   "id": "G033",
+   "id": "G017",
    "type": "指南来源",
    "name": "小儿肛周脓肿与肛瘘诊疗共识(国内)",
    "code": "",
@@ -2581,7 +2581,7 @@
    }
   },
   {
-   "id": "G034",
+   "id": "G018",
    "type": "指南来源",
    "name": "甲状舌管囊肿诊疗共识(国内)",
    "code": "",
@@ -2591,7 +2591,7 @@
    }
   },
   {
-   "id": "G035",
+   "id": "G019",
    "type": "指南来源",
    "name": "先天性胆管扩张症诊疗专家共识(国内)",
    "code": "",
@@ -3437,85 +3437,85 @@
   {
    "head": "T001",
    "relation": "证据来源",
-   "tail": "G007",
+   "tail": "G003",
    "attributes": {}
   },
   {
    "head": "T002",
    "relation": "证据来源",
-   "tail": "G007",
+   "tail": "G003",
    "attributes": {}
   },
   {
    "head": "E001",
    "relation": "证据来源",
-   "tail": "G007",
+   "tail": "G003",
    "attributes": {}
   },
   {
    "head": "T003",
    "relation": "证据来源",
-   "tail": "G004",
+   "tail": "G022",
    "attributes": {}
   },
   {
    "head": "T012",
    "relation": "证据来源",
-   "tail": "G004",
+   "tail": "G022",
    "attributes": {}
   },
   {
    "head": "T013",
    "relation": "证据来源",
-   "tail": "G004",
+   "tail": "G022",
    "attributes": {}
   },
   {
    "head": "E007",
    "relation": "证据来源",
-   "tail": "G004",
+   "tail": "G022",
    "attributes": {}
   },
   {
    "head": "E002",
    "relation": "证据来源",
-   "tail": "G004",
+   "tail": "G022",
    "attributes": {}
   },
   {
    "head": "T005",
    "relation": "证据来源",
-   "tail": "G006",
+   "tail": "G002",
    "attributes": {}
   },
   {
    "head": "T006",
    "relation": "证据来源",
-   "tail": "G006",
+   "tail": "G002",
    "attributes": {}
   },
   {
    "head": "E003",
    "relation": "证据来源",
-   "tail": "G006",
+   "tail": "G002",
    "attributes": {}
   },
   {
    "head": "T007",
    "relation": "证据来源",
-   "tail": "G008",
+   "tail": "G004",
    "attributes": {}
   },
   {
    "head": "T008",
    "relation": "证据来源",
-   "tail": "G008",
+   "tail": "G004",
    "attributes": {}
   },
   {
    "head": "E010",
    "relation": "证据来源",
-   "tail": "G008",
+   "tail": "G004",
    "attributes": {}
   },
   {
@@ -3527,61 +3527,61 @@
   {
    "head": "T009",
    "relation": "证据来源",
-   "tail": "G002",
+   "tail": "G020",
    "attributes": {}
   },
   {
    "head": "T009",
    "relation": "证据来源",
-   "tail": "G003",
+   "tail": "G021",
    "attributes": {}
   },
   {
    "head": "T014",
    "relation": "证据来源",
-   "tail": "G002",
+   "tail": "G020",
    "attributes": {}
   },
   {
    "head": "T018",
    "relation": "证据来源",
-   "tail": "G002",
+   "tail": "G020",
    "attributes": {}
   },
   {
    "head": "E005",
    "relation": "证据来源",
-   "tail": "G002",
+   "tail": "G020",
    "attributes": {}
   },
   {
    "head": "T010",
    "relation": "证据来源",
-   "tail": "G005",
+   "tail": "G023",
    "attributes": {}
   },
   {
    "head": "T015",
    "relation": "证据来源",
-   "tail": "G005",
+   "tail": "G023",
    "attributes": {}
   },
   {
    "head": "T016",
    "relation": "证据来源",
-   "tail": "G005",
+   "tail": "G023",
    "attributes": {}
   },
   {
    "head": "T011",
    "relation": "证据来源",
-   "tail": "G005",
+   "tail": "G023",
    "attributes": {}
   },
   {
    "head": "E009",
    "relation": "证据来源",
-   "tail": "G005",
+   "tail": "G023",
    "attributes": {}
   },
   {
@@ -3635,7 +3635,7 @@
   {
    "head": "D007",
    "relation": "证据来源",
-   "tail": "G009",
+   "tail": "G005",
    "attributes": {}
   },
   {
@@ -3701,7 +3701,7 @@
   {
    "head": "D008",
    "relation": "证据来源",
-   "tail": "G010",
+   "tail": "G006",
    "attributes": {}
   },
   {
@@ -3739,7 +3739,7 @@
   {
    "head": "D009",
    "relation": "证据来源",
-   "tail": "G011",
+   "tail": "G007",
    "attributes": {}
   },
   {
@@ -3807,7 +3807,7 @@
   {
    "head": "D010",
    "relation": "证据来源",
-   "tail": "G003",
+   "tail": "G021",
    "attributes": {
     "共享": "EAU小儿泌尿复用"
    }
@@ -3869,7 +3869,7 @@
   {
    "head": "D011",
    "relation": "证据来源",
-   "tail": "G012",
+   "tail": "G024",
    "attributes": {}
   },
   {
@@ -3935,7 +3935,7 @@
   {
    "head": "D012",
    "relation": "证据来源",
-   "tail": "G014",
+   "tail": "G008",
    "attributes": {}
   },
   {
@@ -3981,7 +3981,7 @@
   {
    "head": "D013",
    "relation": "证据来源",
-   "tail": "G013",
+   "tail": "G025",
    "attributes": {}
   },
   {
@@ -4023,7 +4023,7 @@
   {
    "head": "D014",
    "relation": "证据来源",
-   "tail": "G003",
+   "tail": "G021",
    "attributes": {
     "共享": "EAU复用"
    }
@@ -4217,7 +4217,7 @@
   {
    "head": "D015",
    "relation": "证据来源",
-   "tail": "G015",
+   "tail": "G009",
    "attributes": {}
   },
   {
@@ -4235,7 +4235,7 @@
   {
    "head": "T027",
    "relation": "证据来源",
-   "tail": "G015",
+   "tail": "G009",
    "attributes": {}
   },
   {
@@ -4315,7 +4315,7 @@
   {
    "head": "D016",
    "relation": "证据来源",
-   "tail": "G016",
+   "tail": "G010",
    "attributes": {}
   },
   {
@@ -4327,7 +4327,7 @@
   {
    "head": "E015",
    "relation": "证据来源",
-   "tail": "G016",
+   "tail": "G010",
    "attributes": {}
   },
   {
@@ -4393,7 +4393,7 @@
   {
    "head": "D017",
    "relation": "证据来源",
-   "tail": "G017",
+   "tail": "G011",
    "attributes": {}
   },
   {
@@ -4405,7 +4405,7 @@
   {
    "head": "T029",
    "relation": "证据来源",
-   "tail": "G017",
+   "tail": "G011",
    "attributes": {}
   },
   {
@@ -4519,7 +4519,7 @@
   {
    "head": "D018",
    "relation": "证据来源",
-   "tail": "G018",
+   "tail": "G012",
    "attributes": {}
   },
   {
@@ -4595,7 +4595,7 @@
   {
    "head": "D019",
    "relation": "证据来源",
-   "tail": "G019",
+   "tail": "G013",
    "attributes": {}
   },
   {
@@ -4607,7 +4607,7 @@
   {
    "head": "T034",
    "relation": "证据来源",
-   "tail": "G019",
+   "tail": "G013",
    "attributes": {}
   },
   {
@@ -4681,7 +4681,7 @@
   {
    "head": "D020",
    "relation": "证据来源",
-   "tail": "G020",
+   "tail": "G014",
    "attributes": {}
   },
   {
@@ -4693,25 +4693,25 @@
   {
    "head": "D001",
    "relation": "证据来源",
-   "tail": "G007",
+   "tail": "G003",
    "attributes": {}
   },
   {
    "head": "D002",
    "relation": "证据来源",
-   "tail": "G004",
+   "tail": "G022",
    "attributes": {}
   },
   {
    "head": "D003",
    "relation": "证据来源",
-   "tail": "G006",
+   "tail": "G002",
    "attributes": {}
   },
   {
    "head": "D004",
    "relation": "证据来源",
-   "tail": "G008",
+   "tail": "G004",
    "attributes": {}
   },
   {
@@ -4723,19 +4723,19 @@
   {
    "head": "D005",
    "relation": "证据来源",
-   "tail": "G002",
+   "tail": "G020",
    "attributes": {}
   },
   {
    "head": "D005",
    "relation": "证据来源",
-   "tail": "G003",
+   "tail": "G021",
    "attributes": {}
   },
   {
    "head": "D006",
    "relation": "证据来源",
-   "tail": "G005",
+   "tail": "G023",
    "attributes": {}
   },
   {
@@ -4805,67 +4805,67 @@
   {
    "head": "D002",
    "relation": "证据来源",
-   "tail": "G021",
+   "tail": "G026",
    "attributes": {}
   },
   {
    "head": "D003",
    "relation": "证据来源",
-   "tail": "G022",
+   "tail": "G027",
    "attributes": {}
   },
   {
    "head": "D010",
    "relation": "证据来源",
-   "tail": "G023",
+   "tail": "G028",
    "attributes": {}
   },
   {
    "head": "D014",
    "relation": "证据来源",
-   "tail": "G023",
+   "tail": "G028",
    "attributes": {}
   },
   {
    "head": "D015",
    "relation": "证据来源",
-   "tail": "G024",
+   "tail": "G029",
    "attributes": {}
   },
   {
    "head": "D019",
    "relation": "证据来源",
-   "tail": "G025",
+   "tail": "G030",
    "attributes": {}
   },
   {
    "head": "D009",
    "relation": "证据来源",
-   "tail": "G026",
+   "tail": "G031",
    "attributes": {}
   },
   {
    "head": "D013",
    "relation": "证据来源",
-   "tail": "G027",
+   "tail": "G032",
    "attributes": {}
   },
   {
    "head": "D001",
    "relation": "证据来源",
-   "tail": "G028",
+   "tail": "G033",
    "attributes": {}
   },
   {
    "head": "D017",
    "relation": "证据来源",
-   "tail": "G029",
+   "tail": "G034",
    "attributes": {}
   },
   {
    "head": "D005",
    "relation": "证据来源",
-   "tail": "G030",
+   "tail": "G035",
    "attributes": {}
   },
   {
@@ -4933,7 +4933,7 @@
   {
    "head": "D021",
    "relation": "证据来源",
-   "tail": "G031",
+   "tail": "G015",
    "attributes": {}
   },
   {
@@ -4983,13 +4983,13 @@
   {
    "head": "D022",
    "relation": "证据来源",
-   "tail": "G032",
+   "tail": "G016",
    "attributes": {}
   },
   {
    "head": "D022",
    "relation": "证据来源",
-   "tail": "G003",
+   "tail": "G021",
    "attributes": {}
   },
   {
@@ -5065,13 +5065,13 @@
   {
    "head": "D023",
    "relation": "证据来源",
-   "tail": "G023",
+   "tail": "G028",
    "attributes": {}
   },
   {
    "head": "D023",
    "relation": "证据来源",
-   "tail": "G003",
+   "tail": "G021",
    "attributes": {}
   },
   {
@@ -5119,7 +5119,7 @@
   {
    "head": "D024",
    "relation": "证据来源",
-   "tail": "G033",
+   "tail": "G017",
    "attributes": {}
   },
   {
@@ -5177,7 +5177,7 @@
   {
    "head": "D025",
    "relation": "证据来源",
-   "tail": "G034",
+   "tail": "G018",
    "attributes": {}
   },
   {
@@ -5247,7 +5247,7 @@
   {
    "head": "D026",
    "relation": "证据来源",
-   "tail": "G035",
+   "tail": "G019",
    "attributes": {}
   },
   {
