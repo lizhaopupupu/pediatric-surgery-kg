@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: If you use this knowledge graph in your research, please cite it as follows.
+title: "Pediatric Surgery Knowledge Graph: an evidence-based KG of 26 common pediatric surgical diseases (小儿外科常见疾病循证知识图谱)"
+version: 0.5
+date-released: 2026-08-28
+authors:
+  # TODO: 请替换为真实姓名（family-names / given-names）
+  - name: lizhaopupupu
+    affiliation: "Xiaogan Central Hospital; Affiliated Xiaogan Hospital of Wuhan University of Science and Technology"
+url: "https://github.com/lizhaopupupu/pediatric-surgery-kg"
+repository-code: "https://github.com/lizhaopupupu/pediatric-surgery-kg"
+license: CC-BY-4.0
+keywords:
+  - pediatric surgery
+  - knowledge graph
+  - clinical decision support
+  - differential diagnosis
+  - Neo4j
+  - 小儿外科
+  - 知识图谱
+  - 临床决策支持
+abstract: >-
+  An evidence-based knowledge graph for pediatric surgery clinical decision
+  support, covering 26 diseases, 266 nodes, 401 relations and 29
+  differential-diagnosis pairs, structurally extracted from 35 national and
+  international clinical guidelines and expert consensuses, with every
+  relation traceable to its source guideline entry.
