@@ -4,6 +4,19 @@
 
 > ⚕️ 本图谱仅供科研与教学使用，不构成临床诊疗依据。临床使用前请由小儿外科专科医师审核。
 
+---
+
+## English Summary
+
+An evidence-based knowledge graph for **pediatric surgery clinical decision support (CDSS)**, covering **26 diseases, 266 nodes, 401 relations, and 29 differential-diagnosis pairs** (each annotated with key differentiating points). All knowledge was structurally extracted from **35 clinical guidelines and expert consensuses** (19 Chinese, 16 international, including ACR, ESPGHAN/ESPID, WSES, EAU, NICE, and HerniaSurge), and every relation is traceable to its source guideline entry.
+
+- **11 relation types**: clinical presentation, imaging signs, first-line / alternative examinations, recommended management, differential diagnosis, predilection site, detection method, classification, complications, and evidence source
+- **31 shared nodes** (e.g., high-frequency ultrasound, routine blood tests) link multiple diseases into a true network rather than isolated silos
+- Ready for **Neo4j import** (`data/neo4j_import_v5.cypher`) and **Obsidian** visualization (`scripts/export_kg_to_obsidian.py`)
+- Serves as the knowledge layer of a multimodal multi-agent CDSS built with Qwen2.5-VL (fusion reasoning) and TotalSegmenter (image segmentation)
+
+> ⚕️ For research and educational use only. Not a substitute for clinical judgment; specialist review is required before any clinical use.
+
 ## 数据概况（v0.5）
 
 | 指标 | 数值 |
